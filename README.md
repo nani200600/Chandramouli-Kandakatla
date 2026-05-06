@@ -212,38 +212,3 @@ If you're building something that matters — let's talk.
 
 <img src="frontend/public/favicon.svg" width="100" height="100" alt="EduChain Logo" style="margin: 20px 0;" />
 
-# 🔗 EduChain
-
-### Decentralized Academic Credential Verification Protocol
-
-**Issue · Verify · Trust — Powered by Ethereum** ⛓️
-
-<!-- Animated Badges -->
-<p>
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="License" />
-  <img src="https://img.shields.io/badge/Solidity-0.8.20-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Network-Sepolia%20Testnet-purple?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
-<!-- GitHub Stats Cards -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=educhain&theme=tokyonight&hide_border=true&show_owner=true" alt="Repo Card" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/stars/yourusername/educhain?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/yourusername/educhain?style=social" alt="Forks" />
-</p>
-
----
-
-> **🎯 Mission:** Eliminate fake academic degrees by letting accredited institutions issue tamper-proof,
-> blockchain-verified credentials directly on Ethereum. Anyone — employer, visa officer, university —
-> can verify a credential in seconds using just a hash or QR code. **No login. No middleman. No forgery.**
-
-</div>
-
----
-
